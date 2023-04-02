@@ -21,7 +21,7 @@
 ### 4. Convert from F to C
 #### 4.1 Use the formula -> R = (N – 32) * .5556
 #### 4.2 Return the result in degrees Celsius -> R°C
-### 5 End the algorithm.
+### 5. End the algorithm.
 
 ## C. Geometry
 ### 1. Know which geometric figure we want to know its volume.
