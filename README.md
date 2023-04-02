@@ -1,7 +1,7 @@
 # core-code-from-scratch-readme
 
 # WEEK CHALLENGES (WEDNESDAY)
-## A. PIZZA
+## A. PIZZA🍕
 ### 1. Know what flavor of pizza we are going to cook
 ### 2. Verify which ingredients are available and which ones are not
 ### 3. Buy the ingredients that are missing
@@ -12,7 +12,7 @@
 ### 8. Put the pizza in the oven and wait for 15 minutes
 ### 9. Take out the pizza and enjoy it.
 
-## B. Hot N Cold
+## B. Hot N Cold🥶
 ### 1. Know whether we want to convert from C to F or from F to C.
 ### 2. Obtain the value to be converted -> N
 ### 3. Convert from C to F
@@ -23,7 +23,7 @@
 #### 4.2 Return the result in degrees Celsius -> R°C
 ### 5. End the algorithm.
 
-## C. Geometry
+## C. Geometry📐
 ### 1. Know which geometric figure we want to know its volume.
 ### 2. If the figure to find the volume is a pyramid:
 #### 2.1 Ask for the values of its base and height, and store them in variables as b = base and h = height.
