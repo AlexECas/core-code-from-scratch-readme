@@ -1,4 +1,4 @@
 # core-code-from-scratch-readme
 
-## WEEK CHALLENGES (WEDNESDAY)
-### 1. PIZZA
+# WEEK CHALLENGES (WEDNESDAY)
+## a. PIZZA
