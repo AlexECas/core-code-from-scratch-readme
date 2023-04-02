@@ -27,7 +27,7 @@
 ### 1. Know which geometric figure we want to know its volume.
 ### 2. If the figure to find the volume is a pyramid:
 #### 2.1 Ask for the values of its base and height, and store them in variables as bl = base lenght, bw = base width and h = height.
-#### 2.2 Use the formula with the values of the base and the height -> R=(1/3)(bl*bh*h)
+#### 2.2 Use the formula with the values of the base and the height -> R=(1/3)(bl * bh * h)
 #### 2.3 Return the result of the volume of the pyramid with its respective unit.
 ### 3. If the figure to find the volume is a cube:
 #### 3.1 Ask for the value of its area and store it in a variable as a = area.
