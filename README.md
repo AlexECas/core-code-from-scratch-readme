@@ -41,3 +41,15 @@
 
 
 # WEEK CHALLENGES (THURSDAY)
+
+## A. Numbers 📊
+### 1. Obtain the value of the number to be evaluated and save it in a variable N.
+### 2. Save the value of N modulo 2 in a variable called R -> R = N % 2
+### 3. If the result R is equal to 0 -> R == 0
+#### 3.1 Return the number is even.
+### 4. If not, if R is not equal to 0 -> R != 0
+#### 4.1 Return the number is odd.
+### 5. End the algorithm.
+
+![image](https://user-images.githubusercontent.com/115180055/229383097-eac2e192-3651-4dac-8e86-e320bc5081ad.png)
+
