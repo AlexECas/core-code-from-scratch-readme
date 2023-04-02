@@ -23,7 +23,7 @@
 #### 4.2 Return the result in degrees Celsius -> R°C
 ### 5 End the algorithm.
 
-### C. Geometry
+## C. Geometry
 ### 1. Know which geometric figure we want to know its volume.
 ### 2. If the figure to find the volume is a pyramid:
 #### 2.1 Ask for the values of its base and height, and store them in variables as b = base and h = height.
@@ -38,3 +38,6 @@
 #### 4.2 Use the formula for the volume -> R= ((4/3)(πr))^3
 #### 4.3 Return the result of the volume of the sphere with its respective unit.
 ### 5. End the algorithm.
+
+
+# WEEK CHALLENGES (THURSDAY)
