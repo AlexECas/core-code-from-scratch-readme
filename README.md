@@ -59,3 +59,18 @@
 ### 3. Create a variable called age, which will be equal to current_date minus DOB -> age = current_date - DOB
 ### 4. Print the value of age
 ### 5. End the algorithm
+
+## C. Treasures 👑
+### We have three chests, which tell us that at least one of them contains a treasure. Each chest has a message, but all the messages are lies.
+
+### A: The middle chest has a treasure.
+### B: All the chests have treasures.
+### C: Only one of these chests has treasures.
+
+### 1. Based on what the message from chest A tells us, we know that chest B does not contain a treasure, since the message says that B has a treasure, but all the messages are lies.
+
+### 2. Based on what the message from chest B tells us, we know that not all the chests have treasures, since we already excluded chest B based on what chest A said.
+
+### 3. Finally, what chest C tells us is that only one of these chests has a treasure, but since all the messages are lies, we know that the treasures are in the only two remaining chests, which would be chest A and chest C.
+
+### 4. Therefore, we conclude that the treasures are located in chests A and C.
