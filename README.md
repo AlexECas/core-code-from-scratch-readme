@@ -53,3 +53,9 @@
 
 ![image](https://user-images.githubusercontent.com/115180055/229383097-eac2e192-3651-4dac-8e86-e320bc5081ad.png)
 
+## B. Date of birth 👧
+### 1. Ask for date of birth and store it in a variable called DOB
+### 2. Store the current date in a variable called current_date
+### 3. Create a variable called age, which will be equal to current_date minus DOB -> age = current_date - DOB
+### 4. Print the value of age
+### 5. End the algorithm
