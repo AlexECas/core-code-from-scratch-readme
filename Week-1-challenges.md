@@ -1,5 +1,3 @@
-# core-code-from-scratch-readme
-
 # WEEK CHALLENGES (WEDNESDAY)
 ## A. PIZZA 🍕
 ### 1. Know what flavor of pizza we are going to cook
