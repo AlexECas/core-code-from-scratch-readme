@@ -18,6 +18,8 @@
 ![image](https://user-images.githubusercontent.com/115180055/232247806-a361daf2-7cf2-48cd-9c52-8463c17cbf69.png)
 ![image](https://user-images.githubusercontent.com/115180055/232247815-c781c2d1-5255-4035-9526-5473fe16f220.png)
 ## B. Mod
+![image](https://user-images.githubusercontent.com/115180055/232248051-63606d79-738f-4517-9302-d05a0419fe7f.png)
+![image](https://user-images.githubusercontent.com/115180055/232248064-f26db6a6-0cc7-4f9f-ab1c-a155db8a2211.png)
 ## C. Register form
 
 # Week challenges (Thursday) 💻
