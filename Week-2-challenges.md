@@ -9,6 +9,7 @@
 ## B. Print my name
 ![image](https://user-images.githubusercontent.com/115180055/232246665-fe4409cb-138c-4855-bb52-95e0bcd36ebe.png)
 ## C. Print my name & age
+![image](https://user-images.githubusercontent.com/115180055/232246794-26d72f67-ed9f-4954-9ed8-bc8ef1f14447.png)
 
 # Week challenges (Wednesday) 💻
 
