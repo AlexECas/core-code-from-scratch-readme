@@ -14,6 +14,9 @@
 # Week challenges (Wednesday) 💻
 
 ## A. Algorithm game
+![image](https://user-images.githubusercontent.com/115180055/232247797-7fa2336d-5905-4346-bdd5-ead13240891d.png)
+![image](https://user-images.githubusercontent.com/115180055/232247806-a361daf2-7cf2-48cd-9c52-8463c17cbf69.png)
+![image](https://user-images.githubusercontent.com/115180055/232247815-c781c2d1-5255-4035-9526-5473fe16f220.png)
 ## B. Mod
 ## C. Register form
 
