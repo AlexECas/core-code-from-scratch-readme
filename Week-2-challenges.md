@@ -6,6 +6,7 @@
 # Week challenges (Tuesday) 💻
 
 ## A. Print my name
+![image](https://user-images.githubusercontent.com/115180055/232246665-fe4409cb-138c-4855-bb52-95e0bcd36ebe.png)
 ## B. Print my name & age
 
 # Week challenges (Wednesday) 💻
