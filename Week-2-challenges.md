@@ -1,21 +1,21 @@
 # Week challenges (Monday) 💻
 
-## Logic problem
-## Cereal vrs Milk
+## A. Logic problem
+## B. Cereal vrs Milk
 
 # Week challenges (Tuesday) 💻
 
-## Print my name
-## Print my name & age
+## A. Print my name
+## B. Print my name & age
 
 # Week challenges (Wednesday) 💻
 
-## Algorithm game
-## Mod
-## Register form
+## A. Algorithm game
+## B. Mod
+## C. Register form
 
 # Week challenges (Thursday) 💻
 
-## Truth tables
-## Boolean results
-## Identify odd and even numbers
+## A. Truth tables
+## B. Boolean results
+## C. Identify odd and even numbers
