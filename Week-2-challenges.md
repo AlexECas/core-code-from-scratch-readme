@@ -1,6 +1,13 @@
 # Week challenges (Monday) 💻
 
 ## A. Logic problem
+
+### The teacher says, "The only ones who studied are telling the truth, and the ones who didn't study are lying."
+
+### The only one who is telling the truth is Bob, as he says that one person studied math yesterday, and that one person is him.
+
+### The others would be lying, since they say different numbers of people, none of them match the others, only Bob's, who matches himself.
+
 ## B. Cereal vrs Milk
 
 # Week challenges (Tuesday) 💻
