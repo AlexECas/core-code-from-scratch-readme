@@ -46,5 +46,5 @@
 #### d <- 4 < 4
 #### e <- 100 <= 90
 #### f <- 40 >= 40
-#### FinAlgoritmo
+### FinAlgoritmo
 ## C. Identify odd and even numbers
