@@ -17,6 +17,8 @@
 #### 4.1 Add the fruit of your choice to your cereal.
 ### 5. enjoy your cereal
 
+![image](https://user-images.githubusercontent.com/115180055/232369917-4bfc27c8-e78b-495e-9498-a50ae6c60068.png)
+
 # Week challenges (Tuesday) 💻
 ## A. Install PSeInt
 ![image](https://user-images.githubusercontent.com/115180055/232246700-792e6a37-a4b1-4743-9b61-d8ebfe41429c.png)
