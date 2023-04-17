@@ -39,4 +39,12 @@
 ### 13. ~((T | F ) & (F | F)) & F = T ❌
 ### 14. ~((T | F ) & (F | F)) & T = F ❌
 ## B. Boolean results
+### Algoritmo boolean
+#### a <- 5 == 3
+#### b <- 4 <> 3
+#### c <- 7 > 7
+#### d <- 4 < 4
+#### e <- 100 <= 90
+#### f <- 40 >= 40
+### FinAlgoritmo
 ## C. Identify odd and even numbers
