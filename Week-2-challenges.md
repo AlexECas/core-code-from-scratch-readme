@@ -54,3 +54,11 @@
 #### // f = Verdadero -> El resultado es verdadero, ya que se verifica si 40 es mayor o igual a 40, lo cual es correcto.
 ### FinAlgoritmo
 ## C. Identify odd and even numbers
+![image](https://user-images.githubusercontent.com/115180055/232366678-b8d7c604-11cc-4283-9521-39181b24a7e6.png)
+![image](https://user-images.githubusercontent.com/115180055/232366747-382f54e2-70b4-4379-b181-777e05361f8d.png)
+![image](https://user-images.githubusercontent.com/115180055/232366796-59b3d74a-950c-427a-baae-7b8822a687ac.png)
+![image](https://user-images.githubusercontent.com/115180055/232366844-66869962-fa2a-43ed-8c0e-3c71b28dccda.png)
+![image](https://user-images.githubusercontent.com/115180055/232366895-5728ed33-f977-46d8-91f6-1248e0302ec3.png)
+
+
+
