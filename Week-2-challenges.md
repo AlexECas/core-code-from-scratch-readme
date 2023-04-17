@@ -2,13 +2,6 @@
 
 ## A. Logic problem
 
-### 1. Grab bowl and spoon
-### 2. pour cereal into bowl
-### 3. pour milk into the bowl
-### 4. Do you want fruit for your cereal?
-#### 4.1 Add the fruit of your choice to your cereal.
-### 5. enjoy your cereal
-
 ### The teacher says, "The only ones who studied are telling the truth, and the ones who didn't study are lying."
 
 ### The only one who is telling the truth is Bob, as he says that one person studied math yesterday, and that one person is him.
@@ -16,6 +9,13 @@
 ### The others would be lying, since they say different numbers of people, none of them match the others, only Bob's, who matches himself.
 
 ## B. Cereal vrs Milk
+
+### 1. Grab bowl and spoon
+### 2. pour cereal into bowl
+### 3. pour milk into the bowl
+### 4. Do you want fruit for your cereal?
+#### 4.1 Add the fruit of your choice to your cereal.
+### 5. enjoy your cereal
 
 # Week challenges (Tuesday) 💻
 ## A. Install PSeInt
