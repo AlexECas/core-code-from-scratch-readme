@@ -41,10 +41,16 @@
 ## B. Boolean results
 ### Algoritmo boolean
 #### a <- 5 == 3
+#### // a = Falso -> El resultado es falso, ya que el == verifica que esos números sean iguales, los cuales no lo son.
 #### b <- 4 <> 3
+#### // b = Verdadero -> El resultado es verdadero, ya que el <> verifica si los dos números son diferentes.
 #### c <- 7 > 7
+#### // c = Falso -> El resultado es falso, ya que se verifica si 7 es mayor a 7, lo cual es falso, ya que son iguales.
 #### d <- 4 < 4
+#### // d = Falso -> El resultado es falso, ya que se verifica si 4 es menor a 4, lo cual es falso, ya que son iguales.
 #### e <- 100 <= 90
+#### // e = Falso -> El resultado es falso, ya que se verifica si 100 es menor o igual a 90, lo cual es incorrecto.
 #### f <- 40 >= 40
+#### // f = Verdadero -> El resultado es verdadero, ya que se verifica si 40 es mayor o igual a 40, lo cual es correcto.
 ### FinAlgoritmo
 ## C. Identify odd and even numbers
