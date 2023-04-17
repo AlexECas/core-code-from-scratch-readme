@@ -21,7 +21,8 @@
 ![image](https://user-images.githubusercontent.com/115180055/232248105-49c3f6ef-bd6d-4ffd-a3fd-1f2c38b6a544.png)
 ![image](https://user-images.githubusercontent.com/115180055/232248114-744923a7-d1a8-42a2-895a-fdaccd4ed82e.png)
 ## C. Register form
-
+![image](https://user-images.githubusercontent.com/115180055/232367047-33cd928d-5dc2-4694-8eb8-e053d794db53.png)
+![image](https://user-images.githubusercontent.com/115180055/232367429-5a1e6eb3-7e05-4023-91b6-a3631e72d082.png)
 # Week challenges (Thursday) 💻
 ## A. Truth tables
 ### 1. T & T = T ✅
