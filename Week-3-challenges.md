@@ -2,7 +2,7 @@
 
 ## A. Simple calculator
 ![image](https://user-images.githubusercontent.com/115180055/233508783-ab1ba388-58cd-4c5c-b6f2-3621f51f9c83.png)
-https://user-images.githubusercontent.com/115180055/233511021-236f220a-b00a-473a-a6c9-2cf3c535dbed.mp4
+
 ## B. Special number
 ![image](https://user-images.githubusercontent.com/115180055/233509115-5dc38664-a983-4d12-8fd9-9c88a166d2ae.png)
 
