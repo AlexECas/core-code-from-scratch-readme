@@ -5,6 +5,7 @@
 ![simpleCalculator](https://user-images.githubusercontent.com/115180055/233511773-6871dc37-2094-42d1-82e4-57572966cb6b.gif)
 ## B. Special number
 ![image](https://user-images.githubusercontent.com/115180055/233509115-5dc38664-a983-4d12-8fd9-9c88a166d2ae.png)
+
 ![specialNumber](https://user-images.githubusercontent.com/115180055/233512075-f49a1f08-be92-40bd-bbb9-789fb6f0447b.gif)
 
 # Week challenges (Tuesday) 💻
