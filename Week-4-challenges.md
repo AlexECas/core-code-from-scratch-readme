@@ -6,6 +6,7 @@
 
 ## 2. Even or odd
 ![image](https://user-images.githubusercontent.com/115180055/235324703-3e4f680e-d751-46d0-b38a-76a005a2cb65.png)
+
 ![image](https://user-images.githubusercontent.com/115180055/235324735-1e7b11ab-2443-44d7-8d71-05e3f6bc6f55.png)
 ![image](https://user-images.githubusercontent.com/115180055/235324761-d55e4057-4a2b-438c-a65b-fe92fecf99f3.png)
 
@@ -37,6 +38,7 @@
 
 ## 2. Total price
 ![image](https://user-images.githubusercontent.com/115180055/235325048-3a3165d5-b486-423b-ab70-97691c2060d3.png)
+
 ![image](https://user-images.githubusercontent.com/115180055/235325063-232b47b5-5a73-4f2b-8651-4a6264f9dad8.png)
 
 ## 3. Reverse direction and size
