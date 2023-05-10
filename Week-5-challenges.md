@@ -5,26 +5,31 @@
 
 ## 2. Compare distances
 ![image](https://github.com/AlexECas/core-code-from-scratch-readme/assets/115180055/e12366fe-8c81-4034-af90-2b2478b70eca)
+
 ![image](https://github.com/AlexECas/core-code-from-scratch-readme/assets/115180055/c91d9b77-7907-41c7-8356-ba2e9f97483c)
 ![image](https://github.com/AlexECas/core-code-from-scratch-readme/assets/115180055/1ad02bdd-05cd-47b3-9273-32b18a31abea)
 
 # Week challenges (Tuesday) 💻
 ## 2. Sum of pairs
 ![image](https://github.com/AlexECas/core-code-from-scratch-readme/assets/115180055/92b607b2-7590-4d08-95d6-17c23bac639e)
+
 ![image](https://github.com/AlexECas/core-code-from-scratch-readme/assets/115180055/1ee9105e-0a30-4e4d-9115-20191b038066)
 ![image](https://github.com/AlexECas/core-code-from-scratch-readme/assets/115180055/6879ec84-e8de-47f3-a599-0ef5201a177a)
 
 ## 3. Mid point
 ![image](https://github.com/AlexECas/core-code-from-scratch-readme/assets/115180055/6c8184ed-fbdb-4531-a141-6c8f7e603c73)
+
 ![image](https://github.com/AlexECas/core-code-from-scratch-readme/assets/115180055/346e5b11-726d-468c-ba35-7ee57855f69e)
 
 # Week challenges (Wednesday) 💻
 ## 1. Cashier
 ![image](https://github.com/AlexECas/core-code-from-scratch-readme/assets/115180055/a896876b-6a36-474f-8ffd-062366b1e98e)
+
 ![image](https://github.com/AlexECas/core-code-from-scratch-readme/assets/115180055/7dfb5564-530d-4049-9763-0894b1bd0256)
 
 ## 2. Weather average
 ![image](https://github.com/AlexECas/core-code-from-scratch-readme/assets/115180055/05bfe8df-ae91-4f95-9502-cb1b0dc5ace8)
+
 ![image](https://github.com/AlexECas/core-code-from-scratch-readme/assets/115180055/a7cbeacf-7aee-4091-ba9e-3da53000783e)
 
 # Week challenges (Thursday) 💻
