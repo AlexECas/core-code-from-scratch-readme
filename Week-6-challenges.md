@@ -13,11 +13,14 @@ let firstname = 'lata'
 let flower = 'rose'
 let tree = 'maple'
 ```
-
 ## 5. Reassignment
-
+```JavaScript
+// The new value of x is 'Toe'
+```
 ## 6. Assign variables
-
+```JavaScript
+// The new value of x is 'Hardy'
+```
 # Week challenges (Wednesday) 💻
 
 ## 2. Functions
