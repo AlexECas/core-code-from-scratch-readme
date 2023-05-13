@@ -4,9 +4,10 @@
 ```JavaScript
 let firstname = 'lata'
 ```
-
 ## 3. What is x?
-
+```JavaScript
+// The value of x is 'Geeta'
+```
 ## 4. Several variables
 
 ## 5. Reassignment
