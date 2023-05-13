@@ -30,7 +30,15 @@ function hello() {
 }
 ```
 ## 3. Multiple functions
+```JavaScript
+function a() {
+ return 'Hello a!';
+}
 
+function b() {
+ return 'Hello b!';
+}
+```
 ## 4. Function calls
 
 ## 5. What is x? (function version)
