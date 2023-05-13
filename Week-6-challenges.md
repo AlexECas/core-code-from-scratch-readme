@@ -25,7 +25,7 @@ let tree = 'maple'
 
 ## 2. Functions
 ```JavaScript
-function hello () {
+function hello() {
  return 'Hello world!'
 }
 ```
