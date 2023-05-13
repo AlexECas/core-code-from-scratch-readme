@@ -24,7 +24,11 @@ let tree = 'maple'
 # Week challenges (Wednesday) 💻
 
 ## 2. Functions
-
+```JavaScript
+function hello () {
+ return 'Hello world!'
+}
+```
 ## 3. Multiple functions
 
 ## 4. Function calls
