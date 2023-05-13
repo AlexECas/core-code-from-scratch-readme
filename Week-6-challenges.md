@@ -9,6 +9,10 @@ let firstname = 'lata'
 // The value of x is 'Geeta'
 ```
 ## 4. Several variables
+```JavaScript
+let flower = 'rose'
+let tree = 'maple'
+```
 
 ## 5. Reassignment
 
