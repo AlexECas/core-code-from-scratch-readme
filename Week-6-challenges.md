@@ -1,8 +1,9 @@
 # Week challenges (Tuesday) 💻
 
 ## 2. Variables
-
+```js
 let firstname = 'lata'
+```
 
 ## 3. What is x?
 
