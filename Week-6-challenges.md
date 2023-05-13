@@ -49,17 +49,44 @@ let salutation = greet();
 ```
 
 ## 5. What is x? (function version)
-
+```JavaScript
+// The value of x is 'How do you do?'
+```
 ## 6. Parameters
-
+```JavaScript
+function echo(value) {
+ return value;
+}
+```
 # Week challenges (Thursday) 💻
 
 ## 1. Strings
-
+```JavaScript
+function greet(value) {
+ return 'Hello' + ' ' + value + '!';
+}
+```
 ## 2. String: length 
-
+```JavaScript
+function length(chain) {
+ return chain.length;
+}
+```
 ## 3. String: toUpperCase()
-
+```JavaScript
+function toCase(chain) {
+ return chain.toLowerCase() + '-' + chain.toUpperCase();
+}
+```
 ## 4. String: charAt()
-
+```JavaScript
+function shortcut(chain1, chain2) {
+ return chain1.charAt(0) + chain2.charAt(0);
+}
+```
 ## 5. String: indexOf()
+```JavaScript
+function indexOfIgnoreCase(chain1, chain2) {
+ return (chain1.toLowerCase()).indexOf(chain2.toLowerCase());
+}
+```
