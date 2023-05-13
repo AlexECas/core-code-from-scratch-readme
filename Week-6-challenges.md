@@ -40,6 +40,13 @@ function b() {
 }
 ```
 ## 4. Function calls
+```JavaScript
+function greet() {
+ return 'Haydo!';
+}
+
+let salutation = greet();
+```
 
 ## 5. What is x? (function version)
 
