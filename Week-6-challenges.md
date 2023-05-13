@@ -1,7 +1,7 @@
 # Week challenges (Tuesday) 💻
 
 ## 2. Variables
-```js
+```JavaScript
 let firstname = 'lata'
 ```
 
