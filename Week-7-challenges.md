@@ -8,9 +8,29 @@ function firstWord(chain) {
 }
 ```
 ## 2. String: replace()
+```JavaScript
+
+```
 ## 3. Increment
+```JavaScript
+// The value of x is 7
+```
+
 ## 4. Fahrenheit
+```JavaScript
+function toFahrenheit(num) {
+  return (parseInt(num) * (9/5)) + 32
+}
+```
 ## 5. Boolean
+```JavaScript
+function nand(val1, val2) {
+  if(val1 && val2){ 
+    return false;
+}
+return true;
+}
+```
 
 # Week challenges (Tuesday) 💻
 
