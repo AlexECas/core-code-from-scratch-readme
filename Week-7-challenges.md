@@ -82,7 +82,21 @@ var rooms = {
 
 ## 1. Count strings in objects
 ```JavaScript
-
+function strCount(obj) {
+  let count = 0;
+  
+  // Iterate over the object's properties
+  for (let key in obj) {
+    if (typeof obj[key] === "string") {
+      count++;
+    } else if (typeof obj[key] === "object" && obj[key] !== null) {
+      count += strCount(obj[key]); // Recursively count string values in nested objects
+    }
+  }
+  
+  return count;
+}
+  
 ```
 ## 2. Extending JavaScript Objects: Get First & Last Array Element
 ```JavaScript
