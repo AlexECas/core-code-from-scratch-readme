@@ -104,7 +104,19 @@ Array.prototype.last = function() {
 ```
 ## 3. Object Oriented Piracy
 ```JavaScript
-
+function Ship(draft,crew) {
+ this.draft = draft;
+ this.crew = crew;
+}
+//YOUR CODE HERE...
+Ship.prototype.isWorthIt = function() {
+  const crewWeight = 1.5 * this.crew;
+  
+  if((this.draft - crewWeight) > 20) {
+    return true;
+  }
+  return false;
+};
 ```
 
 # Week challenges (Thursday) 💻
