@@ -123,15 +123,32 @@ Ship.prototype.isWorthIt = function() {
 
 ## 1. Convert a String to a Number!
 ```JavaScript
-
+const stringToNumber = function(str){
+  // put your code here
+  return parseInt(str);
+}
 ```
 ## 2. Convert number to reversed array of digits
 ```JavaScript
+function digitize(n) {
+  if (n > 0) {
+    const arr = [];
+    const digits = n.toString();
 
+    for (let i = digits.length - 1; i >= 0; i--) {
+      arr.push(parseInt(digits[i]));
+    }
+
+    return arr;
+  }
+
+  return [n];
+}
 ```
 ## 3. Truthy and Falsy
 ```JavaScript
-
+const truthy = [true, {}, [], "false", -42];
+const falsy = [false, 0, NaN, null, undefined];
 ```
 ## 4. Training JS #4: Basic data types--Array
 ```JavaScript
