@@ -89,7 +89,7 @@ function strCount(obj) {
     if (typeof obj[key] === "string") {
       count++;
     } else if (typeof obj[key] === "object" && obj[key] !== null) {
-      count += strCount(obj[key]); // Recursively count string values in nested objects
+      count += strCount(obj[key]);
     }
   }
   
