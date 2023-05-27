@@ -9,7 +9,18 @@ function firstWord(chain) {
 ```
 ## 2. String: replace()
 ```JavaScript
+function normalize(chain) {
+let res = '';
 
+for(let i = 0; i < chain.length; i++) {
+ if(chain[i] === '-') {
+   res = res + chain[i].replace('-','/');
+}else {
+ res = res + chain[i];
+}
+}
+return res;
+}
 ```
 ## 3. Increment
 ```JavaScript
