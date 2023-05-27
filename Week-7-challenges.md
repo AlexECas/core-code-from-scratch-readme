@@ -85,7 +85,6 @@ var rooms = {
 function strCount(obj) {
   let count = 0;
   
-  // Iterate over the object's properties
   for (let key in obj) {
     if (typeof obj[key] === "string") {
       count++;
