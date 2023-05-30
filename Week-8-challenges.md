@@ -42,8 +42,6 @@ function howManydays(month){
 ## 3. Basic calculator
 ```JavaScript
 function calculate(num1, operation, num2) {
- //TODO: make a basic calculator. 
-  
   switch(operation) {
       case '+':
        return num1 + num2;
