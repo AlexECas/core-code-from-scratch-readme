@@ -72,6 +72,17 @@ function evenOrOdd(number) {
 ```
 ## 2. A wolf in sheep's clothing
 ```JavaScript
+function warnTheSheep(queue) {
+  let count = 0;
+  for(let i = queue.length - 1; i >= 0; i--) {  
+  count++;
+  if(queue[queue.length - 1] === 'wolf') {
+    return "Pls go away and stop eating my sheep"
+  } else if (queue[i] === 'wolf') {
+    return `Oi! Sheep number ${count - 1}! You are about to be eaten by a wolf!` 
+  }
+  }
+}
 ```
 ## 3. Decode the morse code
 ```JavaScript
