@@ -122,6 +122,16 @@ function likes(names) {
 ```
 ## 2. Bit counting
 ```JavaScript
+var countBits = function(n) {
+  
+  if(n > 0) {
+    const arr = n.toString(2).split('');
+    
+    return (arr.filter(element => element === '1')).length
+  }
+  
+  return 0
+};
 ```
 ## 3. Your order, please
 ```JavaScript
