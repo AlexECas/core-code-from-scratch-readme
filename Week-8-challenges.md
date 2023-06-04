@@ -135,6 +135,22 @@ var countBits = function(n) {
 ```
 ## 3. Your order, please
 ```JavaScript
+function order(words){
+  if(words.length > 0) {
+    const arr = words.split(' ');
+    let res = '';
+    let num = 1;
+    
+    while(num <= arr.length) {
+      res += arr.filter((e) => e.includes(num.toString())) + ' ';
+      num++;
+    }
+    
+    return res.trim();  
+  }
+  
+  return '';
+}
 ```
 
 # Week challenges (Thursday) 💻
