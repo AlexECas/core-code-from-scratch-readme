@@ -157,6 +157,24 @@ function order(words){
 
 ## 1. Counting duplicates
 ```JavaScript
+function duplicateCount(text){
+  text = text.toLowerCase();
+    
+  if(text.length > 0) {
+    const arr = text.split('');
+    let repeatedValue = '';
+    let count = 0;
+    
+    arr.forEach(element => {
+      if((text.indexOf(element) !== text.lastIndexOf(element)) && !repeatedValue.includes(element)) {
+        repeatedValue += element;
+        count++;
+      }
+    })
+    return count; 
+  }
+  return 0;
+}
 ```
 ## 2. Encrypt this!
 ```JavaScript
