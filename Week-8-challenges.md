@@ -178,6 +178,33 @@ function duplicateCount(text){
 ```
 ## 2. Encrypt this!
 ```JavaScript
+var encryptThis = function(text) {
+  const arr = text.split(' ');
+  
+  let res = '';
+  
+  arr.forEach((element) => {
+    const arr2 = element.split('');
+    res += ' '
+    
+    if(arr2.length >= 3) {
+      const temp = arr2[1];
+      arr2[1] = arr2[arr2.length - 1];
+      arr2[arr2.length - 1] = temp;
+    }
+    
+    arr2.forEach((element2, idx) => {
+      if(idx === 0) {
+        res += element2.charCodeAt(idx)  
+      }else {
+        res += element2
+      }           
+    });
+    
+  });
+  
+  return res.trim();
+}
 ```
 ## 3. Valid parentheses
 ```JavaScript
