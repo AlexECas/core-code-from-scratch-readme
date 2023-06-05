@@ -208,6 +208,21 @@ var encryptThis = function(text) {
 ```
 ## 3. Valid parentheses
 ```JavaScript
+function validParentheses(parens) {
+  const arr = [];
+
+  for (let i = 0; i < parens.length; i++) {
+    if (parens[i] === '(') {
+      arr.push('(');
+    } else if (parens[i] === ')') {
+      if (arr.length === 0 || arr[arr.length - 1] !== '(') {
+        return false;
+      }
+      arr.pop();
+    }
+  }
+  return arr.length === 0;
+}
 ```
 ## 4. Convert string to camel case
 ```JavaScript
