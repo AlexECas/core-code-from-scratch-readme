@@ -10,7 +10,23 @@ function NameMe(first, last) {
 ```
 ## 2. "Thinkful - List and Loop Drills: Lists of lists"
 ```JavaScript
-
+function processData(data){
+  
+  const arr = [];
+  
+  data.forEach(array => {
+    const res = array.reduce((acc, curr) => {
+      return acc -= curr;
+    }) 
+    
+    arr.push(res);
+  })
+  let res2 = 1;
+  
+  arr.map(e => res2 = res2 * e);
+  
+  return res2;
+}
 ```
 ## 3. Stop gninnipS My sdroW!
 ```JavaScript
