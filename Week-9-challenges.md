@@ -30,7 +30,20 @@ function processData(data){
 ```
 ## 3. Stop gninnipS My sdroW!
 ```JavaScript
-
+function spinWords(string){
+  const arr =  string.split(' ');
+  const  res = [];
+  
+  arr.forEach(element => {
+    if(element.length >= 5){
+      const arr2 = element.split('');
+      res.push(arr2.reverse().join(''));
+    }else {
+      res.push(element);
+    }
+  })
+  return res.join(' ');
+}
 ```
 
 # Week challenges (Tuesday) 💻
