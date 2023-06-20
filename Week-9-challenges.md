@@ -54,7 +54,33 @@ function spinWords(string){
 ```
 ## 2. "Who likes it?"
 ```JavaScript
+function likes(names) {
+  
+  if(names.length > 0) {
+    
+    if(names.length >= 2 && names.length <= 3) {
+      
+      let res = names.reduce((acc, cur, idx) => {
+  
+        return (idx === (names.length - 1)) ? 
+          `${acc} and ${cur} like this` 
+          : 
+          `${acc}, ${cur}`
+        
+      });
 
+      return res;
+      
+    }else if (names.length === 1) {
+      return `${names[0]} likes this`;
+    }else {
+      return  `${names[0]}, ${names[1]} and ${names.length - 2} others like this`;
+    }
+  
+  }
+  
+  return 'no one likes this'
+}
 ```
 ## 3. Convert string to camel case
 ```JavaScript
